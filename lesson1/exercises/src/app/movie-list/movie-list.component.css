@@ -1,5 +1,8 @@
 .movies{
     color:cyan;
     align-items: center;
-    font-size:large;
+    font-size:1.3vw;
+}
+h3{
+    text-align: center;
 }
